@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in Full Stack Web Development and OpenSource.
 - 🌱 I’m currently learning  React.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me , Here's My Email : harshit.rawat1804@gmail.com
 - ⚡ Fun fact: I love to play Football (on my pc :))
 
