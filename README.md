@@ -1,8 +1,8 @@
-#                                                                                  💫Hi 👋, I'm Harshit.
+# 💫 Hi 👋, I'm Harshit.
 
-💻 I’m a Full Stack Web Developer and OpenSource enthusiast.<br>🌱 I’m currently exploring Machine Learning.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me , Here's My Email : harshit77dev@gmail.com<br>⚡ Fun fact: I love to play Football (on my pc :))
-
-
+| ![My GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk1ZWRzZ2o1MjZ5bWxveXFza3YwaTMzZmhzN3lucWZ1d2x4MG1zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif) | 
+|---| 
+| **💻 I’m a Full Stack Web Developer and Open Source enthusiast.** <br> **🌱 I’m currently exploring Machine Learning.** <br> **💞️ I’m looking to collaborate on open source projects.** <br> **📫 How to reach me: Here's My Email: [harshit77dev@gmail.com](mailto:harshit77dev@gmail.com)** <br> **⚡ Fun fact: I love to play Football (on my PC :)).** |
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshit_rwt)
 
