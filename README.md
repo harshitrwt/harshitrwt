@@ -2,7 +2,7 @@
 
 | ![My GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk1ZWRzZ2o1MjZ5bWxveXFza3YwaTMzZmhzN3lucWZ1d2x4MG1zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif) | 
 |---| 
-| **💫 I'm currently exploring cloud technologies/DevOps practices.<br>💫 I'm a Full-stack Developer, always open to discuss about projects.<br>💫 Ask me anything about frontend, backend , api's.<br>💫 I would love to collaborate on large scale projects.<br>💫 Exploring Opensource, let's see how it goes for me<br>💫 you can reach out to me at : [harshit77dev@gmail.com](harshit77dev@gmail.com)** |
+| **💫 I'm currently exploring cloud technologies/DevOps practices.<br>💫 I'm a Full-stack Developer, always open to discuss about projects.<br>💫 Ask me anything about frontend, backend , api's.<br>💫 I would love to collaborate on large scale projects.<br>💫 Exploring OpenSource, let's see how it goes for me<br>💫 you can reach out to me at : [harshit77dev@gmail.com](harshit77dev@gmail.com)** |
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-rawat-0a6944274/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@harshitrawat180) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshit77dev@gmail.com) 
 
