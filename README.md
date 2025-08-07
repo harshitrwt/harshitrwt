@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Harshit.
+# Hi👋, I'm Harshit.
 
 | ![My GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk1ZWRzZ2o1MjZ5bWxveXFza3YwaTMzZmhzN3lucWZ1d2x4MG1zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif) | 
 |---| 
