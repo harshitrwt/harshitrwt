@@ -1,6 +1,6 @@
 # Hi👋, I'm Harshit.
 
-| ![My GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk1ZWRzZ2o1MjZ5bWxveXFza3YwaTMzZmhzN3lucWZ1d2x4MG1zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif) | 
+![img](https://i.pinimg.com/1200x/78/a5/1b/78a51b20db658da9e07a9d9ccbf5da09.jpg)
 |---| 
 | **💫 I'm currently exploring cloud technologies/DevOps practices.<br>💫 I'm a Full-stack Developer, always open to discuss about projects.<br>💫 Ask me anything about frontend, backend , api's.<br>💫 I would love to collaborate on large scale projects.<br>💫 Exploring OpenSource, let's see how it goes for me<br>💫 you can reach out to me at : [harshit77dev@gmail.com](harshit77dev@gmail.com)** |
 ## 🌐 Socials:
