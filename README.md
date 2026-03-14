@@ -1,10 +1,4 @@
-# Hi👋, I'm Harshit.
-
-![img](https://i.pinimg.com/1200x/78/a5/1b/78a51b20db658da9e07a9d9ccbf5da09.jpg)
-|---| 
-| **💫 I'm currently exploring cloud technologies/DevOps practices.<br>💫 I'm a Full-stack Developer, always open to discuss about projects.<br>💫 Ask me anything about frontend, backend , api's.<br>💫 I would love to collaborate on large scale projects.<br>💫 Exploring OpenSource, let's see how it goes for me<br>💫 you can reach out to me at : [harshit77dev@gmail.com](harshit77dev@gmail.com)** |
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-rawat-0a6944274/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@harshitrawat180) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshit77dev@gmail.com) 
+![img](https://filmfreedonia.com/wp-content/uploads/2010/11/thesocialnetwork03.jpg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshitrwt&label=Profile%20Views&color=brightgreen&style=flat)
 
